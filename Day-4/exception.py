@@ -84,3 +84,13 @@
 #     print("There are no error in try block")
 # finally:
 #     print("i will always execute")
+
+#----------------------------------------------------------------------------------------------
+
+# f1 = open(r"C:\prashantjha-course\Day-4\gunda.png", "rb")
+# f2 = open("munda.png", "wb")
+# data = f1.read()
+# f2.write(data)
+# print("new image is available with the name: munda.png")
+
+#----------------------------------------------------------------------------------------------
