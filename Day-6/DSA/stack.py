@@ -180,10 +180,11 @@
 #             return "stack is empty"
 #         else:
 #             return self.stacklist[-1]  
-# size=int(input("Enter the size of stack"))            
+
+# size=int(input("Enter the size of stack: "))            
 # stackobj=Stack(size)
+
 # while True:
-    
 #     print("1.Push")
 #     print("2.Display Stack element")
 #     print("3.Check is empty")
